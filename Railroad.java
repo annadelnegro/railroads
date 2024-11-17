@@ -1,8 +1,3 @@
-/* Anna Del Negro
- * Dr. Steinberg
- * COP3503 Spring 2024
- * Programming Assignment 5
- */
 
 import java.io.*;
 import java.util.*;
